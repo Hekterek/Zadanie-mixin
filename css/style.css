@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  background-color: rgba(128, 128, 128, 0.267);
+  border: 1px solid green;
+}
+.div .paragraph {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(0, 128, 0, 0.497);
+  border: 7px dashed red;
+}
+
+/*# sourceMappingURL=style.css.map */
